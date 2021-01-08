@@ -1,0 +1,18 @@
+[
+  {
+   "repository": "android_device_lineage_atv",
+   "target_path": "device/lineage/atv"
+  },
+ {
+   "repository": "android_hardware_nvidia_libstagefrighthw",
+   "target_path": "hardware/nvidia/libstagefrighthw"
+ },
+ {
+   "repository": "android_hardware_nvidia_power",
+   "target_path": "hardware/nvidia/power"
+ },
+ {
+   "repository": "android_hardware_nvidia_thermal",
+   "target_path": "hardware/nvidia/thermal"
+ }
+]
